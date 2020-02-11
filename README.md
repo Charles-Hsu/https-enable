@@ -8,3 +8,8 @@
 
 ![](https://github.com/Charles-Hsu/https-enable/blob/master/ssl-for-free-1.png)
 
+填幾個 domain name 就會產生幾個檔案下載驗證
+
+選擇 Manual Verification
+
+![](https://github.com/Charles-Hsu/https-enable/blob/master/ssl-for-free-2.png)
