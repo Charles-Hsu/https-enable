@@ -14,7 +14,7 @@
 
 ![](https://github.com/Charles-Hsu/https-enable/blob/master/ssl-for-free-2.png)
 
-依照上面的只是一步步完成即可, 最後把檔案下載下來, 解壓縮, 放到網站的根目錄
+依照上面的指示一步步完成即可, 最後把檔案下載下來, 解壓縮, 放到網站的根目錄
 
 編輯 https.conf.js
 
