@@ -32,6 +32,6 @@
     
 之後到瀏覽器執行 https://cloth2.tw, https://www.cloth2.tw, https://6e.com.tw 或者 https://www.6e.com.tw 就可以瀏覽 https 的網站了
 
-####參考資料
+#### 參考資料
 
 [https://www.npmjs.com/package/live-server](https://www.npmjs.com/package/live-server)
